@@ -1,0 +1,2 @@
+# DGVC
+static website
